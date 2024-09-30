@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+body,html{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  height: auto;
+}
+
+/* Importing Bootstrap SCSS file. */
+@import 'bootstrap/scss/bootstrap';

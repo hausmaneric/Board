@@ -1,0 +1,674 @@
+[
+  {
+      "Categoria": "Romântico",
+      "Acao": "Beijar Intensamente",
+      "Descricao": "Beije o parceiro(a) por 1 minuto sem parar.",
+      "Casa": "1"
+  },
+  {
+      "Categoria": "Sensual",
+      "Acao": "Lamber o Pescoço",
+      "Descricao": "Lamber e beijar o pescoço do parceiro(a) por 2 minutos.",
+      "Casa": "2"
+  },
+  {
+      "Categoria": "Erótico",
+      "Acao": "Sexo Oral",
+      "Descricao": "Faça sexo oral no parceiro(a) por 3 minutos.",
+      "Casa": "3"
+  },
+  {
+      "Categoria": "Pergunta Picante",
+      "Acao": "Fantasia Secreta",
+      "Descricao": "Qual é a sua fantasia sexual mais secreta que ainda não realizamos?",
+      "Casa": "4"
+  },
+  {
+      "Categoria": "Brincadeira",
+      "Acao": "Pedra, Papel e Tesoura",
+      "Descricao": "Jogue pedra, papel e tesoura – o perdedor tira uma peça de roupa.",
+      "Casa": "5"
+  },
+  {
+      "Categoria": "Pausa e Recompensa",
+      "Acao": "Relaxar e Beber Água",
+      "Descricao": "Faça uma pausa para relaxar e beber água.",
+      "Casa": "6"
+  },
+  {
+      "Categoria": "Romântico",
+      "Acao": "Massagem Nas Costas",
+      "Descricao": "Dê uma massagem relaxante nas costas por 5 minutos.",
+      "Casa": "7"
+  },
+  {
+      "Categoria": "Sensual",
+      "Acao": "Beijo nos Lábios",
+      "Descricao": "Beije os lábios do parceiro(a) de forma intensa por 2 minutos.",
+      "Casa": "8"
+  },
+  {
+      "Categoria": "Especial Romântico",
+      "Acao": "Surpresa Romântica",
+      "Descricao": "O parceiro(a) deve realizar um gesto romântico inesperado, como escrever um bilhete de amor ou preparar um jantar especial.",
+      "Casa": "9"
+  },
+  {
+      "Categoria": "Erótico",
+      "Acao": "Amarração",
+      "Descricao": "Amarre o parceiro(a) com uma fita ou lenço por 5 minutos e explore seu corpo.",
+      "Casa": "10"
+  },
+  {
+      "Categoria": "Pergunta Picante",
+      "Acao": "O que Excita",
+      "Descricao": "O que te excita mais durante nossos momentos íntimos?",
+      "Casa": "11"
+  },
+  {
+      "Categoria": "Brincadeira",
+      "Acao": "Cócegas",
+      "Descricao": "Faça cócegas no parceiro(a) por 1 minuto.",
+      "Casa": "12"
+  },
+  {
+      "Categoria": "Pausa e Recompensa",
+      "Acao": "Escolher uma Música Relaxante",
+      "Descricao": "Escolha uma música relaxante e aproveite 5 minutos para ouvir e relaxar.",
+      "Casa": "13"
+  },
+  {
+      "Categoria": "Romântico",
+      "Acao": "Acariciar o Rosto",
+      "Descricao": "Acaricie o rosto do parceiro(a) suavemente por 2 minutos.",
+      "Casa": "14"
+  },
+  {
+      "Categoria": "Sensual",
+      "Acao": "Lamber o Abdômen",
+      "Descricao": "Use a língua para explorar o abdômen do parceiro(a).",
+      "Casa": "15"
+  },
+  {
+      "Categoria": "Erótico",
+      "Acao": "Uso de Brinquedo",
+      "Descricao": "Use um brinquedo erótico no parceiro(a) por 2 minutos.",
+      "Casa": "16"
+  },
+  {
+      "Categoria": "Pergunta Picante",
+      "Acao": "Parte Mais Sexy",
+      "Descricao": "Qual parte do meu corpo você considera a mais sexy?",
+      "Casa": "17"
+  },
+  {
+      "Categoria": "Brincadeira",
+      "Acao": "Roupa Provocante",
+      "Descricao": "O parceiro(a) escolhe uma peça de roupa para você vestir de forma provocante.",
+      "Casa": "18"
+  },
+  {
+      "Categoria": "Especial Sensual",
+      "Acao": "Exploração à Escura",
+      "Descricao": "O parceiro(a) deve explorar seu corpo às cegas usando uma venda, focando em sua reação a toques.",
+      "Casa": "19"
+  },
+  {
+      "Categoria": "Pausa e Recompensa",
+      "Acao": "Escutar uma Mensagem de Texto",
+      "Descricao": "Troque uma mensagem de texto carinhosa e aproveite o momento para relaxar.",
+      "Casa": "20"
+  },
+  {
+      "Categoria": "Romântico",
+      "Acao": "Beijo no Pescoço",
+      "Descricao": "Beije o pescoço do parceiro(a) por 2 minutos.",
+      "Casa": "21"
+  },
+  {
+      "Categoria": "Sensual",
+      "Acao": "Chupar os Dedos",
+      "Descricao": "Chupe os dedos das mãos ou dos pés do parceiro(a) de forma provocativa.",
+      "Casa": "22"
+  },
+  {
+      "Categoria": "Erótico",
+      "Acao": "Mordida Leve",
+      "Descricao": "Morda suavemente uma parte do corpo do parceiro(a), como os lábios ou a nádega.",
+      "Casa": "23"
+  },
+  {
+      "Categoria": "Pergunta Picante",
+      "Acao": "Amarração",
+      "Descricao": "Você já pensou em me amarrar durante o sexo? Como seria?",
+      "Casa": "24"
+  },
+  {
+      "Categoria": "Brincadeira",
+      "Acao": "Desfile",
+      "Descricao": "Faça um desfile ao redor do parceiro(a) em câmera lenta.",
+      "Casa": "25"
+  },
+  {
+      "Categoria": "Pausa e Recompensa",
+      "Acao": "Pausa para Conversa",
+      "Descricao": "Tenha uma conversa relaxante de 5 minutos sem pressões.",
+      "Casa": "26"
+  },
+  {
+      "Categoria": "Romântico",
+      "Acao": "Olhar nos Olhos",
+      "Descricao": "Mantenha o olhar fixo nos olhos do parceiro(a) por 1 minuto.",
+      "Casa": "27"
+  },
+  {
+      "Categoria": "Sensual",
+      "Acao": "Carícia com Gelo",
+      "Descricao": "Passe um cubo de gelo sobre o corpo do parceiro(a) por 1 minuto.",
+      "Casa": "28"
+  },
+  {
+      "Categoria": "Especial Erótico",
+      "Acao": "Desafio do Prazer",
+      "Descricao": "Realize uma prática sexual que não costuma fazer, explorando um novo desejo ou fantasia. ",
+      "Casa": "29"
+  },
+  {
+      "Categoria": "Erótico",
+      "Acao": "Strip-tease",
+      "Descricao": "Realize um strip-tease sensual para o parceiro(a).",
+      "Casa": "30"
+  },
+  {
+      "Categoria": "Pergunta Picante",
+      "Acao": "Fantasia Imediata",
+      "Descricao": "Se pudesse realizar qualquer fantasia agora, qual seria?",
+      "Casa": "31"
+  },
+  {
+      "Categoria": "Brincadeira",
+      "Acao": "Peça de Roupa",
+      "Descricao": "O parceiro(a) tira uma peça de roupa sua de forma provocante.",
+      "Casa": "32"
+  },
+  {
+      "Categoria": "Pausa e Recompensa",
+      "Acao": "Preparar uma Bebida Especial",
+      "Descricao": "Prepare uma bebida especial e aproveite um momento relaxante de 5 minutos.",
+      "Casa": "33"
+  },
+  {
+      "Categoria": "Romântico",
+      "Acao": "Elogio",
+      "Descricao": "Diga ao parceiro(a) algo que você realmente admira sobre ele(a).",
+      "Casa": "34"
+  },
+  {
+      "Categoria": "Sensual",
+      "Acao": "Exploração com a Língua",
+      "Descricao": "Explore uma parte do corpo com a língua.",
+      "Casa": "35"
+  },
+  {
+      "Categoria": "Erótico",
+      "Acao": "Beijo Intenso",
+      "Descricao": "Dê um beijo muito intenso e apaixonado por 3 minutos.",
+      "Casa": "36"
+  },
+  {
+      "Categoria": "Pergunta Picante",
+      "Acao": "Sexo Público",
+      "Descricao": "Já imaginou ter sexo em um lugar público? Onde e como seria?",
+      "Casa": "37"
+  },
+  {
+      "Categoria": "Brincadeira",
+      "Acao": "Jogo de Adivinhação",
+      "Descricao": "Jogue \"\"quente ou frio\"\" para encontrar uma parte do corpo que você deve beijar.",
+      "Casa": "38"
+  },
+  {
+      "Categoria": "Especial Pergunta Picante",
+      "Acao": "Confissão Secreta",
+      "Descricao": "Compartilhe um desejo sexual secreto ou uma fantasia que ainda não foi discutida",
+      "Casa": "39"
+  },
+  {
+      "Categoria": "Pausa e Recompensa",
+      "Acao": "Relaxar com uma Leitura",
+      "Descricao": "Tire 5 minutos para ler um livro ou artigo interessante.",
+      "Casa": "40"
+  },
+  {
+      "Categoria": "Romântico",
+      "Acao": "Abraço Demorado",
+      "Descricao": "Dê um abraço apertado e demorado por 3 minutos.",
+      "Casa": "41"
+  },
+  {
+      "Categoria": "Sensual",
+      "Acao": "Beijo Profundo",
+      "Descricao": "Dê um beijo profundo e apaixonado por 2 minutos.",
+      "Casa": "42"
+  },
+  {
+      "Categoria": "Erótico",
+      "Acao": "Óleo e Toques",
+      "Descricao": "Aplique óleo de massagem no corpo e toque suavemente por 5 minutos.",
+      "Casa": "43"
+  },
+  {
+      "Categoria": "Pergunta Picante",
+      "Acao": "Momento Intenso",
+      "Descricao": "Qual foi o momento mais intenso e excitante que tivemos juntos?",
+      "Casa": "44"
+  },
+  {
+      "Categoria": "Brincadeira",
+      "Acao": "Desafio do Desejo",
+      "Descricao": "O parceiro(a) deve realizar um desejo seu na próxima rodada.",
+      "Casa": "45"
+  },
+  {
+      "Categoria": "Pausa e Recompensa",
+      "Acao": "Momentos de Relaxamento",
+      "Descricao": "Aproveite 5 minutos para um momento de relaxamento e descontração.",
+      "Casa": "46"
+  },
+  {
+      "Categoria": "Romântico",
+      "Acao": "Beijo nas Mãos",
+      "Descricao": "Beije as mãos do parceiro(a), um dedo de cada vez.",
+      "Casa": "47"
+  },
+  {
+      "Categoria": "Sensual",
+      "Acao": "Massagem com Óleo",
+      "Descricao": "Faça uma massagem com óleo na parte escolhida pelo parceiro(a) por 5 minutos.",
+      "Casa": "48"
+  },
+  {
+      "Categoria": "Especial Brincadeira",
+      "Acao": "Desafio da Verdade ou Consequência",
+      "Descricao": "Escolha um desafio ou faça uma pergunta íntima ao parceiro(a). O não cumprimento leva a uma penalidade sensual. ",
+      "Casa": "49"
+  },
+  {
+      "Categoria": "Erótico",
+      "Acao": "Exploração com Vibrador",
+      "Descricao": "Use um vibrador na parte do corpo do parceiro(a) à sua escolha por 2 minutos.",
+      "Casa": "50"
+  },
+  {
+      "Categoria": "Pergunta Picante",
+      "Acao": "Beijo Preferido",
+      "Descricao": "Qual parte do meu corpo você gostaria de beijar mais frequentemente?",
+      "Casa": "51"
+  },
+  {
+      "Categoria": "Brincadeira",
+      "Acao": "Dança Sensual",
+      "Descricao": "Realize uma dança sensual para o parceiro(a) por 3 minutos.",
+      "Casa": "52"
+  },
+  {
+      "Categoria": "Pausa e Recompensa",
+      "Acao": "Meditação Guiada",
+      "Descricao": "Participe de uma meditação guiada por 5 minutos para relaxar.",
+      "Casa": "53"
+  },
+  {
+      "Categoria": "Romântico",
+      "Acao": "Carícia com as Mãos",
+      "Descricao": "Passe a mão suavemente pelo corpo do parceiro(a).",
+      "Casa": "54"
+  },
+  {
+      "Categoria": "Sensual",
+      "Acao": "Beijo nos Seios",
+      "Descricao": "Beije e acaricie os seios ou a área das nádegas.",
+      "Casa": "55"
+  },
+  {
+      "Categoria": "Erótico",
+      "Acao": "Carícia Vendado",
+      "Descricao": "Use uma venda para cegar o parceiro(a) e explore seu corpo com toques.",
+      "Casa": "56"
+  },
+  {
+      "Categoria": "Pergunta Picante",
+      "Acao": "Mudança no Próximo Encontro",
+      "Descricao": "O que você gostaria de mudar no nosso próximo encontro sexual?",
+      "Casa": "57"
+  },
+  {
+      "Categoria": "Brincadeira",
+      "Acao": "Escolha do Brinquedo",
+      "Descricao": "Escolha um brinquedo erótico para usar por 2 minutos.",
+      "Casa": "58"
+  },
+  {
+      "Categoria": "Especial Romântico",
+      "Acao": "Desafio da Carícia",
+      "Descricao": "Escolha uma parte do corpo e o parceiro(a) deve acariciá-la de maneira extremamente suave e lenta por 5 minutos. ",
+      "Casa": "59"
+  },
+  {
+      "Categoria": "Pausa e Recompensa",
+      "Acao": "Mimo de Beleza",
+      "Descricao": "Faça um mimo de beleza como uma máscara facial ou manicure de 5 minutos.",
+      "Casa": "60"
+  },
+  {
+      "Categoria": "Romântico",
+      "Acao": "Frase Romântica",
+      "Descricao": "Sussurre uma frase romântica no ouvido do parceiro(a).",
+      "Casa": "61"
+  },
+  {
+      "Categoria": "Sensual",
+      "Acao": "Beijo no Corpo",
+      "Descricao": "Beije o corpo do parceiro(a) de forma lenta e sensual.",
+      "Casa": "62"
+  },
+  {
+      "Categoria": "Erótico",
+      "Acao": "Atividade em Público",
+      "Descricao": "Faça algo excitante em público sem ser notado.",
+      "Casa": "63"
+  },
+  {
+      "Categoria": "Pergunta Picante",
+      "Acao": "Exibição de Fantasia",
+      "Descricao": "Se pudesse realizar uma fantasia sexual em um lugar exótico, qual seria?",
+      "Casa": "64"
+  },
+  {
+      "Categoria": "Brincadeira",
+      "Acao": "Dança de Desafio",
+      "Descricao": "Realize uma dança sensual em resposta a um desafio.",
+      "Casa": "65"
+  },
+  {
+      "Categoria": "Pausa e Recompensa",
+      "Acao": "Preparar um Lanche",
+      "Descricao": "Prepare um lanche leve e desfrute de 5 minutos juntos.",
+      "Casa": "66"
+  },
+  {
+      "Categoria": "Romântico",
+      "Acao": "Cuidado com Carinho",
+      "Descricao": "Mostre cuidado e carinho com gestos suaves.",
+      "Casa": "67"
+  },
+  {
+      "Categoria": "Sensual",
+      "Acao": "Sexo no Escuro",
+      "Descricao": "Explore o corpo do parceiro(a) no escuro com carícias e beijos.",
+      "Casa": "68"
+  },
+  {
+      "Categoria": "Especial Sensual",
+      "Acao": "Tempo de Sensação",
+      "Descricao": "Utilize um objeto sensual (como um vibrador) na parte do corpo escolhida e não remova por 3 minutos. ",
+      "Casa": "69"
+  },
+  {
+      "Categoria": "Erótico",
+      "Acao": "Jogo de Rolos",
+      "Descricao": "Realize um jogo de rolos eróticos por 5 minutos.",
+      "Casa": "70"
+  },
+  {
+      "Categoria": "Pergunta Picante",
+      "Acao": "Inseguranças",
+      "Descricao": "Compartilhe uma insegurança sexual que você tem e como podemos trabalhar nisso juntos.",
+      "Casa": "71"
+  },
+  {
+      "Categoria": "Brincadeira",
+      "Acao": "Desafio de Imitação",
+      "Descricao": "Imitar o parceiro(a) de forma engraçada e provocante.",
+      "Casa": "72"
+  },
+  {
+      "Categoria": "Pausa e Recompensa",
+      "Acao": "Relaxar com Música",
+      "Descricao": "Ouça sua música favorita por 5 minutos enquanto relaxa.",
+      "Casa": "73"
+  },
+  {
+      "Categoria": "Romântico",
+      "Acao": "Enviar uma Mensagem de Amor",
+      "Descricao": "Envie uma mensagem carinhosa ao parceiro(a) por celular.",
+      "Casa": "74"
+  },
+  {
+      "Categoria": "Sensual",
+      "Acao": "Beijo com Gelo",
+      "Descricao": "Use um cubo de gelo para explorar o corpo do parceiro(a).",
+      "Casa": "75"
+  },
+  {
+      "Categoria": "Erótico",
+      "Acao": "Brincadeira com Luz",
+      "Descricao": "Experimente brincar com diferentes intensidades de luz.",
+      "Casa": "76"
+  },
+  {
+      "Categoria": "Pergunta Picante",
+      "Acao": "Medo de Fantasias",
+      "Descricao": "Você tem algum medo relacionado às fantasias sexuais? Como podemos lidar com isso?",
+      "Casa": "77"
+  },
+  {
+      "Categoria": "Brincadeira",
+      "Acao": "Desafio da Imagem",
+      "Descricao": "Escolha uma imagem sensual e interprete-a de forma provocante.",
+      "Casa": "78"
+  },
+  {
+      "Categoria": "Especial Erótico",
+      "Acao": "Estímulo Prolongado",
+      "Descricao": "Use um brinquedo erótico e mantenha-o em uso por 5 minutos sem permitir que o parceiro(a) atinja o clímax. ",
+      "Casa": "79"
+  },
+  {
+      "Categoria": "Pausa e Recompensa",
+      "Acao": "Massagear os Pés",
+      "Descricao": "Faça uma massagem relaxante nos pés do parceiro(a) por 5 minutos.",
+      "Casa": "80"
+  },
+  {
+      "Categoria": "Romântico",
+      "Acao": "Toque Suave",
+      "Descricao": "Realize um toque suave e carinhoso na pele do parceiro(a).",
+      "Casa": "81"
+  },
+  {
+      "Categoria": "Sensual",
+      "Acao": "Exploração com Toque",
+      "Descricao": "Explore a pele do parceiro(a) com diferentes toques e carícias.",
+      "Casa": "82"
+  },
+  {
+      "Categoria": "Erótico",
+      "Acao": "Criar um Ambiente Sensual",
+      "Descricao": "Crie um ambiente sensual com velas, música ou outros elementos.",
+      "Casa": "83"
+  },
+  {
+      "Categoria": "Pergunta Picante",
+      "Acao": "Lugar Excitante",
+      "Descricao": "Qual é o lugar mais excitante onde você gostaria de ter um encontro íntimo?",
+      "Casa": "84"
+  },
+  {
+      "Categoria": "Brincadeira",
+      "Acao": "Fantasia em Dupla",
+      "Descricao": "Realize uma fantasia em dupla e descreva os detalhes.",
+      "Casa": "85"
+  },
+  {
+      "Categoria": "Pausa e Recompensa",
+      "Acao": "Relaxar com Aromaterapia",
+      "Descricao": "Utilize aromaterapia para criar um ambiente relaxante por 5 minutos.",
+      "Casa": "86"
+  },
+  {
+      "Categoria": "Romântico",
+      "Acao": "Elogio do Dia",
+      "Descricao": "Faça um elogio sincero ao parceiro(a) sobre algo que aconteceu no dia.",
+      "Casa": "87"
+  },
+  {
+      "Categoria": "Sensual",
+      "Acao": "Beijo no Pescoço",
+      "Descricao": "Beije o pescoço do parceiro(a) e explore essa área com a língua.",
+      "Casa": "88"
+  },
+  {
+      "Categoria": "Especial Pergunta Picante",
+      "Acao": "Pergunta Reveladora",
+      "Descricao": "O parceiro(a) deve responder a uma pergunta íntima e reveladora sobre suas preferências ou experiências passadas. ",
+      "Casa": "89"
+  },
+  {
+      "Categoria": "Erótico",
+      "Acao": "Seduzir com Palavras",
+      "Descricao": "Use palavras sedutoras para criar uma atmosfera erótica.",
+      "Casa": "90"
+  },
+  {
+      "Categoria": "Pergunta Picante",
+      "Acao": "Fantasia no Futuro",
+      "Descricao": "Qual fantasia você gostaria de realizar em um futuro próximo?",
+      "Casa": "91"
+  },
+  {
+      "Categoria": "Brincadeira",
+      "Acao": "Jogo de Palavras",
+      "Descricao": "Jogue um jogo de palavras sensuais e criativas.",
+      "Casa": "92"
+  },
+  {
+      "Categoria": "Pausa e Recompensa",
+      "Acao": "Café ou Chá",
+      "Descricao": "Faça uma pausa para um café ou chá e aproveite o momento para relaxar.",
+      "Casa": "93"
+  },
+  {
+      "Categoria": "Romântico",
+      "Acao": "Carinho na Pele",
+      "Descricao": "Toque a pele do parceiro(a) com carinho e delicadeza.",
+      "Casa": "94"
+  },
+  {
+      "Categoria": "Sensual",
+      "Acao": "Sexo no Escuro",
+      "Descricao": "Explore o corpo do parceiro(a) no escuro, explorando suas áreas erógenas.",
+      "Casa": "95"
+  },
+  {
+      "Categoria": "Erótico",
+      "Acao": "Uso de Amarras",
+      "Descricao": "Use amarras suaves para explorar o corpo do parceiro(a).",
+      "Casa": "96"
+  },
+  {
+      "Categoria": "Pergunta Picante",
+      "Acao": "Fantasia em Público",
+      "Descricao": "Qual seria a sua fantasia se estivéssemos em um ambiente público?",
+      "Casa": "97"
+  },
+  {
+      "Categoria": "Brincadeira",
+      "Acao": "Adivinhação Sexual",
+      "Descricao": "Faça um jogo de adivinhação sexual sobre o que o parceiro(a) gostaria de experimentar.",
+      "Casa": "98"
+  },
+  {
+      "Categoria": "Especial Brincadeira",
+      "Acao": "Troca de Papéis",
+      "Descricao": "Faça uma troca de papéis, onde um assume um papel ativo e o outro um passivo, explorando uma dinâmica sexual diferente.",
+      "Casa": "99"
+  },
+  {
+      "Categoria": "Pausa e Recompensa",
+      "Acao": "Massagem Relaxe",
+      "Descricao": "Realize uma massagem relaxante e carinhosa por 5 minutos.",
+      "Casa": "100"
+  },
+  {
+      "Categoria": "Romântico",
+      "Acao": "Beijo nos Olhos",
+      "Descricao": "Beije suavemente os olhos do parceiro(a).",
+      "Casa": "101"
+  },
+  {
+      "Categoria": "Sensual",
+      "Acao": "Jogo de Rolos",
+      "Descricao": "Realize um jogo de rolos sensuais para explorar novos desejos.",
+      "Casa": "102"
+  },
+  {
+      "Categoria": "Erótico",
+      "Acao": "Atividade na Cama",
+      "Descricao": "Experimente uma nova atividade na cama que o parceiro(a) tenha mencionado.",
+      "Casa": "103"
+  },
+  {
+      "Categoria": "Pergunta Picante",
+      "Acao": "Sexo e Emoções",
+      "Descricao": "Como você acha que as emoções influenciam nosso sexo?",
+      "Casa": "104"
+  },
+  {
+      "Categoria": "Brincadeira",
+      "Acao": "Escolha do Presente",
+      "Descricao": "O parceiro(a) escolhe um presente sensual para você usar.",
+      "Casa": "105"
+  },
+  {
+      "Categoria": "Pausa e Recompensa",
+      "Acao": "Relaxar com Um Filme",
+      "Descricao": "Assista a um filme relaxante juntos por 5 minutos.",
+      "Casa": "106"
+  },
+  {
+      "Categoria": "Romântico",
+      "Acao": "Mimo de Carinho",
+      "Descricao": "Dê um mimo carinhoso, como um bilhete romântico ou um presente pequeno.",
+      "Casa": "107"
+  },
+  {
+      "Categoria": "Sensual",
+      "Acao": "Toque Suave e Delicado",
+      "Descricao": "Realize um toque suave e delicado nas partes mais sensíveis do corpo.",
+      "Casa": "108"
+  },
+  {
+      "Categoria": "Erótico",
+      "Acao": "Explorando Novos Brinquedos",
+      "Descricao": "Explore um novo brinquedo erótico com o parceiro(a).",
+      "Casa": "109"
+  },
+  {
+      "Categoria": "Pergunta Picante",
+      "Acao": "Memórias Picantes",
+      "Descricao": "Compartilhe uma memória sexual que foi especialmente picante para você.",
+      "Casa": "110"
+  },
+  {
+      "Categoria": "Brincadeira",
+      "Acao": "Desafio da Moda",
+      "Descricao": "Faça um desafio de moda com roupas sexy ou provocantes.",
+      "Casa": "111"
+  },
+  {
+      "Categoria": "Pausa e Recompensa",
+      "Acao": "Bebida Refrescante",
+      "Descricao": "Aproveite uma bebida refrescante e relaxe por 5 minutos.",
+      "Casa": "112"
+  }
+]

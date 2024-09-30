@@ -1,0 +1,145 @@
+.container{
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  max-width: 1280px;
+  width: 100%;
+  min-height: 100%;
+  max-height: 100vh;
+  overflow-y: auto;
+  text-align: center;
+  color: white;
+  background: linear-gradient(45deg, #c71006, #242021,#b31020, #361b1d);
+  padding-top: 60px;
+
+  .title{
+    h1{
+      font-size: 42px;
+    }
+
+    h3{
+      font-size: 28px;
+    }
+  }
+
+  .img-title{
+    margin-top: 60px;
+    width: 360px;
+    height: 320px;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .buttons{
+    position: absolute;
+    bottom: 80px;
+    left: 50%;
+    transform: translateX(-50%);
+
+    .btn-game{
+      background-color: #0a2038;
+      border: none;
+      width: 180px !important;
+      color: white;
+      margin-bottom: 15px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1),
+      0 1px 3px rgba(0, 0, 0, 0.08);
+      transition: box-shadow 0.3s ease-in-out;
+    }
+    .btn-game:hover {
+      box-shadow: 0 8px 10px rgba(0, 0, 0, 0.15),
+                  0 3px 6px rgba(0, 0, 0, 0.10);
+    }
+  }
+
+  .input-home{
+    margin-top: 45px;
+
+    p{
+      font-size: 16px;
+      text-align: left;
+      margin-left: 55px !important;
+    }
+  }
+
+  .card-game {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+
+    .card-item {
+      background: linear-gradient(45deg, #b89f9c, #694a46, #b31020, #242021);
+      border-radius: 5px;
+      padding-top: 12px;
+      flex: 1 0 15%;
+      box-sizing: border-box;
+      margin: 10px;
+      cursor: pointer;
+      box-shadow: 0 8px 10px rgba(0, 0, 0, 0.15),
+                  0 3px 6px rgba(0, 0, 0, 0.10);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .card-item:active {
+      transform: scale(0.95);
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15),
+                  0 1px 3px rgba(0, 0, 0, 0.10);
+    }
+  }
+}
+
+.item {
+  position:fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 90%;
+  height: 480px;
+  z-index: 999;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.20),
+              0 1px 3px rgba(0, 0, 0, 0.10);
+  border-radius: 10px;
+  background: linear-gradient(45deg, #b89f9c, #694a46, #b31020, #242021);
+  text-align: center;
+  color: white;
+  padding: 2px !important;
+
+  .item-close{
+    width: 100%;
+    height: 40px;
+    padding: 5px;
+    box-sizing: border-box;
+    text-align: right;
+
+    i{
+      font-size: 22px;
+      margin-top: 5px;
+      margin-right: 5px;
+      cursor: pointer;
+    }
+  }
+
+  h1{
+    margin-top: 15px;
+    font-size: 29px;
+  }
+
+  h4{
+    margin-top: 20px;
+    font-weight: 300;
+  }
+
+  p{
+    margin-top: 30px;
+  }
+
+  img{
+    width: 180px;
+    height: 180px;
+    object-fit: contain;
+    object-position: center;
+    margin-top: 25px;
+  }
+}
